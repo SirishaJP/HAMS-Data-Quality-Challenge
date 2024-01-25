@@ -105,6 +105,8 @@ Primary key: (conv_id, session_id).
           - For MacOS/Linux:
        
              > pip3 install pandas matplotlib seaborn
+             
+ - Unzip the "challenge.zip" file to access the database file challenge.db
 
  - Run the main.ipynb file, open it in a Jupyter notebook environment and 
  
