@@ -1,4 +1,4 @@
-# Data Quality Analysis Project
+# Data Quality Check Project
 
 Welcome to the **Data Quality Report for Company X**, where we delve into the complexities of e-commerce data to 
 
