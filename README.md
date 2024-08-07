@@ -130,18 +130,6 @@ In conclusion, taking the suggested actions is crucial to strengthen the dataset
 
 making sure that data-driven insights and decisions rely on accurate and high-quality information. 
 
-## Aknowledgement 
-
-I would like to express my gratitude to the organizers of the HAMS Data Quality Challenge 
-
-for providing this insightful and challenging task. The opportunity to work on real-world data scenarios has been invaluable,
-
-contributing to my understanding of data quality practices. Special thanks to the HAMS team for 
-
-creating an engaging and enriching experience.
-
-
-
 
 
 
